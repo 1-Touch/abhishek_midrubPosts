@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "demo campaign",
+            "status": "PAUSED",
+            "objective": "LINK_CLICKS",
+            "id": "23844623722230017"
+        },
+        {
+            "name": "My campaign",
+            "status": "PAUSED",
+            "objective": "LINK_CLICKS",
+            "id": "23844623548230017"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "before": "QVFIUi01cWVqbUhyZAjBkcFNLTVc1d1N2UHlFbFE5dXF1STNDU0hMa0hpdFRpMldjWDNPME4tT3pHMmRCZA1RFbzFjQzNrZA2NjSEhnWko5eXZAKZAG1VREhoRjlB",
+            "after": "QVFIUmpYdmtONjVDQ1JOcTdFSzJhRFJJYWFaTnFkVmtNcEkwMEJMaWNwbDRCR19rbUhhUjdSS3lNV01VdE1YYjRrNU5ib2NXTGJvQzMzd3RieEZAST3NNWVdB"
+        }
+    }
+}

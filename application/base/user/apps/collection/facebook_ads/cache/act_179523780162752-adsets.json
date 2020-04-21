@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "status": "PAUSED",
+            "name": "My second AdSet",
+            "campaign": {
+                "name": "demo campaign",
+                "id": "23844623722230017"
+            },
+            "id": "23844624200260017"
+        },
+        {
+            "status": "PAUSED",
+            "name": "My First AdSet",
+            "campaign": {
+                "name": "demo campaign",
+                "id": "23844623722230017"
+            },
+            "id": "23844624088360017"
+        }
+    ],
+    "paging": {
+        "cursors": {
+            "before": "QVFIUjh0ZAEhMZA01oNUNIcnYtUHQ4NHJpMkd0NVRJZAUtJZAXNEbXM3MkFWSFlYM0wtWHlkcGdLNW9VVVA4ZAzlzcFhCZA3ZAzU2JUbkM0b2lRbGI5eTVQWG1jUkln",
+            "after": "QVFIUjROamVaemZA4LXRSWGJWYWRkRV9DR3FhWl9zTmxYN2JZAbEhSMHdyOWtFVFF5aDZAXZADhIZA1lKZAERYR2JQN2t3OHE4clhxVkpIZAnlodGFTcHdLRG9wQl93"
+        }
+    }
+}
